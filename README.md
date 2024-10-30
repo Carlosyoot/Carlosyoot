@@ -1,4 +1,5 @@
-- 👋 Olá, me chamo Carlos
-- 👀 Estou interessado em programação em geral
-- 🌱 Estou estudando Java e C+
+- 👋 Olá, me chamo Carlos Daniel
+- 👀 Estou interessado em programação em geral, especialmente em ser um TEACHLEAD
+- 🌱 Aprendend: Javascript - react/angulalr / Typescript e Java
+-🤖 Experiente em projetos com Python, Java e C+
 - 📫 carlosdanielyoot@gmail.com
