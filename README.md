@@ -1,13 +1,4 @@
-<h2 align="left">Hi 👋, I'm Carlosyoot,<br>A Full Stack Developer passionate about Java, Python and Javascript<br><br>Currently learning Java with Springboot, and I like to create desktop applications using Electron Angular or Python Qt</h2>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/7a/10/7e/7a107e81a62f62e69dd059bae00ec4c0.gif"  />
+<h2 align="left">Hi 👋, I'm Carlosyoot,<br>A Full Stack Developer passionate about Java, Python and Javascript<br><br>Currently learning Java with Springboot, and I like to create desktop applications using Electron Angular or Python Qt<br><br>I am using Delphi in my work and I am interested in studying Golang.</h2>
 
 ###
 
@@ -39,6 +30,19 @@
 
 ###
 
+<img align="right" height="150" src="https://i.pinimg.com/originals/7a/10/7e/7a107e81a62f62e69dd059bae00ec4c0.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlosyoot&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Carlosyoot&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
 <div align="left">
   <a href="https://www.instagram.com/carlosyoot/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -53,11 +57,5 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Carlosyoot/Carlosyoot/output/snake.svg" alt="Snake animation" />
 
 ###
