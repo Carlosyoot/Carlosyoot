@@ -30,8 +30,6 @@
 
 ###
 
-<img align="right" height="120" src="https://i.pinimg.com/originals/7a/10/7e/7a107e81a62f62e69dd059bae00ec4c0.gif"  />
-
 ###
 
 <div align="left">
