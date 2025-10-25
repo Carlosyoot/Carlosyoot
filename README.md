@@ -46,7 +46,7 @@
   <a href="https://www.instagram.com/carlosyoot/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="mailto:carlosdanielyoot@gmail.com?subject=Hello&body=I'm contacting you via your GitHub profile." target="_blank">
+  <a href="mailto:carlosdanielyoot@gmail.com?subject=Hello%20Carlos!&body=Hi%20Carlos,%20I%20found%20you%20through%20your%20GitHub%20profile%20and%20would%20like%20to%20get%20in%20touch." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/carlosyoot/" target="_blank">
