@@ -34,11 +34,6 @@
 ###
 
 <div align="left">
-  <img 
-  src="https://github-stats-wheat-xi.vercel.app/api?username=Carlosyoot&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" 
-  height="150" 
-  alt="stats graph"
-  />
   <img src="https://streak-stats.demolab.com/?user=Carlosyoot&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=1" height="150" alt="streak graph" />
 </div>
 
@@ -47,16 +42,10 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.instagram.com/carlosyoot/" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carlosdanielyoot@gmail.com&su=Hello%20Carlos!&body=Hi%20Carlos,%20I%20found%20you%20through%20your%20GitHub%20profile%20and%20would%20like%20to%20get%20in%20touch." target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer rel="noopener noreferrer" referrerpolicy="no-referrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/carlosyoot/" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://wa.me/5546991122966" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
 </div>
